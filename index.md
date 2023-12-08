@@ -2,7 +2,7 @@
 
 #### ~Since 1919~
 
-![Photo of a flag of Doukoukai](assets/images/doukoukai.jpg)
+<img src="assets/images/doukoukai.jpg", width="500", heights="600">
 京都大学経済学部同好会は経済学部の自治会です。
 
 # 機能メニュー
